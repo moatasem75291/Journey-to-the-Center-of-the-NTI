@@ -55,19 +55,19 @@ This course covers essential skills and language tools needed to succeed in vari
 ## Attached Files
 
 1. **Image of My Colleagues with Our Instructor**  
-   ![Colleagues with Instructor](Weekly%20pictures\week_1\2024_09_05.jpg)
+   ![Colleagues with Instructor](Weekly%20pictures/week_1/2024_09_05.jpg)
 
 2. **Business Proposal Project**  
-   [Download Business Proposal (PDF)](material\Proposal.docx)
+   [Download Business Proposal (docx)](material/Proposal.docx)
 
 3. **Personal Card Design**  
-   ![Personal Card Design](material\PersonalCard.jpg)
+   ![Personal Card Design](material/PersonalCard.jpg)
 
 4. **Cover Letter and Resume (DOCX)**  
-   [Download Cover Letter and Resume (DOCX)](material\MoatasemResumeWithLetter.docx)
+   [Download Cover Letter and Resume (DOCX)](material/MoatasemResumeWithLetter.docx)
 
 5. **Job Stability and Career Growth (DOCX)**  
-   [Download Job Stability and Career Growth (DOCX)](material\JobStabilityVsVareerGrowth.docx)
+   [Download Job Stability and Career Growth (DOCX)](material/JobStabilityVsVareerGrowth.docx)
 
 6. **Action Plan (PDF)**  
    [Download Action Plan (PDF)](material/ActionPlan.pdf)
