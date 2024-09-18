@@ -55,7 +55,7 @@ This course covers essential skills and language tools needed to succeed in vari
 ## Attached Files
 
 1. **Image of My Colleagues with Our Instructor**  
-   ![Colleagues with Instructor](Weekly%20pictures/week_1/2024_09_05.jpg)
+   ![Colleagues with Instructor](teamPictures/2024_09_05.jpg)
 
 2. **Business Proposal Project**  
    [Download Business Proposal (docx)](material/Proposal.docx)
